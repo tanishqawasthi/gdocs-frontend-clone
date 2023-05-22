@@ -3,7 +3,7 @@
 This is a front-end clone of the text editor of google docs. The text editor has been created using Draft.js.
 
 ## Deployed App Link
-http://tanishqawasthi.github.io/gdocs-frontend-clone
+https://beamish-entremet-e52cef.netlify.app/
 
 ## Note
 To run this project in your local machine, you will need the following installed:
