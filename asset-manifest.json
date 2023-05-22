@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gdocs-frontend-clone/static/css/main.3c8a4cd0.css",
+    "main.js": "/gdocs-frontend-clone/static/js/main.fbc24336.js",
+    "index.html": "/gdocs-frontend-clone/index.html",
+    "main.3c8a4cd0.css.map": "/gdocs-frontend-clone/static/css/main.3c8a4cd0.css.map",
+    "main.fbc24336.js.map": "/gdocs-frontend-clone/static/js/main.fbc24336.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c8a4cd0.css",
+    "static/js/main.fbc24336.js"
+  ]
+}
